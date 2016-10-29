@@ -14,7 +14,7 @@ task = raw_input()
 script1 = "bash task1.sh"
 script2 = "bash task2.sh"
 script3 = "bash task3.sh"
-
+p
 if task == 'task1':
    os.system(script1)
 elif task == 'task2':
